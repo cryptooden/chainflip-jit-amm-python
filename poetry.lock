@@ -1,11 +1,12 @@
 [[package]]
 name = "attrs"
-version = "22.1.0"
+version = "22.1.2"
 description = "Classes Without Boilerplate"
 category = "main"
 optional = false
 python-versions = ">=3.5"
-
+Faucet is bad
+right now
 [package.extras]
 dev = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>=4.3.0)", "mypy (>=0.900,!=0.940)", "pytest-mypy-plugins", "zope.interface", "furo", "sphinx", "sphinx-notfound-page", "pre-commit", "cloudpickle"]
 docs = ["furo", "sphinx", "zope.interface", "sphinx-notfound-page"]
